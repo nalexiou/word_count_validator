@@ -21,8 +21,8 @@ Here are my assumptions/decisions about the requirements/objective:
 
 Installation assumes that you will be using Mac OS. To run the code, download/clone the repository and follow the steps below:
 
-	#Open a terminal window and navigate to the directory where you downloaded source code
-	cd /path/to/sourcecode/directory
+        # Open a terminal window and navigate to the directory where you downloaded source code
+        cd /path/to/sourcecode/directory
 
         # You can get everything installed using
         bundle install
